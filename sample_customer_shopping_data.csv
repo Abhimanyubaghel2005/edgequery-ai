@@ -1,0 +1,7 @@
+customer_id,customer_name,city,age,category,product,quantity,unit_price,rating,purchase_month,total_amount
+1,Amit,Indore,25,Electronics,Laptop,2,55000,4.5,January,110000
+2,Rahul,Bhopal,30,Clothing,Shirt,5,1200,4.0,January,6000
+3,Priya,Indore,28,Electronics,Mobile,3,25000,4.8,February,75000
+4,Neha,Delhi,35,Home,Chair,10,2500,4.2,February,25000
+5,Ravi,Bhopal,24,Electronics,Laptop,4,55000,4.6,March,220000
+6,Anjali,Indore,32,Clothing,Dress,6,3000,4.3,March,18000
