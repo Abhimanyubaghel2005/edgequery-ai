@@ -1,18 +1,4 @@
-Yes — let’s make this **very simple**. You don't need to decide anything.
 
-Since your current EdgeQuery AI project is already built, **paste the following complete content into `README.md`**. It is written specifically for your current project and does not claim features you haven't implemented.
-
-### 1. Open README
-
-```powershell
-code README.md
-```
-
-### 2. Delete everything currently inside `README.md`
-
-### 3. Paste this entire content
-
-````markdown
 # EdgeQuery AI
 
 ## Intelligent Text-to-SQL & Business Intelligence Platform
@@ -642,21 +628,7 @@ B.Tech — Electronics & Communication Engineering
 
 [https://github.com/Abhimanyubaghel2005](https://github.com/Abhimanyubaghel2005)
 
-````
 
-### 4. Save it
-
-Press:
-
-**Ctrl + S**
-
-### Important
-
-**Do not commit it yet.**
-
-After saving, run:
-
-```powershell
 git status
 ````
 
