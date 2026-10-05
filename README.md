@@ -514,7 +514,7 @@ Current deployment platform:
 Live Demo:
 
 ```text
-Add your Render URL here
+https://ai-text-to-sql-bi.onrender.com/
 ```
 
 ---
