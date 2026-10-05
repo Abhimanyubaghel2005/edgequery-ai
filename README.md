@@ -610,7 +610,7 @@ This will help users understand how an AI-generated answer was produced and prov
 
 # 👨‍💻 Author
 
-**Abhimanyu Baghel**
+**Abhimanyu Singh**
 
 B.Tech — Electronics & Communication Engineering
 
@@ -619,6 +619,7 @@ B.Tech — Electronics & Communication Engineering
 * Data Analytics
 * Business Intelligence
 * Artificial Intelligence
+* Software Engineering
 * Python
 * SQL
 * Machine Learning
