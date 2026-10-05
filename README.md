@@ -629,9 +629,3 @@ B.Tech — Electronics & Communication Engineering
 [https://github.com/Abhimanyubaghel2005](https://github.com/Abhimanyubaghel2005)
 
 
-git status
-````
-
-Send me the output.
-
-Then I will check whether the README is correct for your actual repository before we commit it.
